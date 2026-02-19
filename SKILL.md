@@ -4,7 +4,8 @@ description: Use strategic silence and delayed responses to create anticipation 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4653
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - comedy
